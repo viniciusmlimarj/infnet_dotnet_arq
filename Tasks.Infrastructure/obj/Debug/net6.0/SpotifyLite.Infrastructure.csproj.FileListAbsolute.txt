@@ -1,0 +1,12 @@
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\bin\Debug\net6.0\SpotifyLite.Infrastructure.deps.json
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\bin\Debug\net6.0\SpotifyLite.Infrastructure.dll
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\bin\Debug\net6.0\SpotifyLite.Infrastructure.pdb
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\SpotifyLite.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\SpotifyLite.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\SpotifyLite.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\SpotifyLite.Infrastructure.AssemblyInfo.cs
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\SpotifyLite.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\SpotifyLite.Infrastructure.dll
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\refint\SpotifyLite.Infrastructure.dll
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\SpotifyLite.Infrastructure.pdb
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Infrastructure\obj\Debug\net6.0\ref\SpotifyLite.Infrastructure.dll

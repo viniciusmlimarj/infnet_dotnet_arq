@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\bin\Debug\net6.0\SpotifyLite.Domain.deps.json
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\bin\Debug\net6.0\SpotifyLite.Domain.dll
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\bin\Debug\net6.0\SpotifyLite.Domain.pdb
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\bin\Debug\net6.0\SpotifyLite.Infrastructure.dll
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\bin\Debug\net6.0\SpotifyLite.Infrastructure.pdb
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\SpotifyLite.Domain.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\SpotifyLite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\SpotifyLite.Domain.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\SpotifyLite.Domain.AssemblyInfo.cs
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\SpotifyLite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\SpotifyLite.Domain.csproj.CopyComplete
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\SpotifyLite.Domain.dll
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\refint\SpotifyLite.Domain.dll
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\SpotifyLite.Domain.pdb
+C:\Users\vinic\Desktop\infnet_arquitetura22E2_3\spotify-lite\spotifylite\SpotifyLite.Domain\obj\Debug\net6.0\ref\SpotifyLite.Domain.dll

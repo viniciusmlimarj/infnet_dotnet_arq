@@ -1,1 +1,0 @@
-# infnet_dotnet_arq
